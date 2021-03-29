@@ -1,7 +1,7 @@
 My journey through technology:
 
 - Hobby Game Development (2014-2017)
-- Web Development (2015+): Every job I did required it
+- Web Development (2015+): Every job I have had required it
 - Computer Vision (2015+)
 - Deep Learning (2014+)
 - Data Science and Engineering, NLP (2017-2019)
