@@ -1,4 +1,4 @@
-My journey through technology:
+**My journey through technology**:
 
 - Hobby Game Development (2014-2017)
 - Web Development (2015+): Every job I have had required it
