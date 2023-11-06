@@ -7,7 +7,8 @@
 - Data Science and Engineering, NLP (2017-2019)
 - Reinforcement Learning (2017-2019)
 - Full-stack Robotics (2019+): hardware (actuators, sensors, mechatronics and rapid prototyping) and software (perception, control, SLAM, navigation, manipulation, integration and testing). I love this because everything I have learned previously coalesces and compounds to be useful to some extent for this field.
-- Radar and Digital Signal Processing (2021+): Trying to sense breathing through walls 
+- Radar and Digital Signal Processing (2021+): Trying to sense breathing through walls
+- Learning CAD + 3D printing for personal mechatronics + software projects (2023+)
 
 Check out the startup I co-founded: [bearcover.de](http://bearcover.de)  
 And MTank [themtank.org](https://themtank.org/)
