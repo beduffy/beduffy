@@ -10,6 +10,7 @@
 - Radar and Digital Signal Processing (2021-2025): Trying to sense breathing through walls
 - Learning CAD + 3D printing for personal mechatronics + software projects (2023)
 - Humanoids and Robot Learning (2024+)
+- Robotic agentic software factory (meta systems that keep iterating towards our goals within robotics - a useful robot!) 
 
 Check out the startup I co-founded: [bearcover.de](http://bearcover.de)  
 And MTank [themtank.org](https://themtank.org/)
